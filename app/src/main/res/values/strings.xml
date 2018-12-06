@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Ujung Tombak</string>
+    <string name="hello_blank_fragment">hello</string>
+    <string name="appbar_scrolling_view_behavior">scroll</string>
+    <string name="mayogurt">Salad Buah bukan kaleng-kaleng ala dapur mamsky. \n \n
+        -Salad ukuran 650ml(kotak) cuman 25rb \n
+        -Salad ukuran 300ml(bulet) cuman 15rb \n \n \n
+        daftar buah: \n
+        -Kiwi hijau	 \n
+        -Jeruk medan \n
+        -Buah Naga \n
+        -Anggur merah \n
+        -Strawberry \n
+        -Anggur hijau \n
+        -Apel \n
+        -Kelengkeng \n
+        -Pear \n
+        -Mangga \n
+        -Melon \n
+        -Selada(untuk netral mulut) \n \n \n
+        Saus toping: \n
+        -Mayo Yogurt (Asem Manisnyakah Ngangenin)</string>
+    <string name="mayokeju">Salad Buah bukan kaleng-kaleng ala dapur mamsky. \n \n
+        -Salad ukuran 650ml(kotak) cuman 25rb \n
+        -Salad ukuran 300ml(bulet) cuman 15rb \n \n \n
+        daftar buah: \n
+        -Kiwi hijau	 \n
+        -Jeruk medan \n
+        -Buah Naga \n
+        -Anggur merah \n
+        -Strawberry \n
+        -Anggur hijau \n
+        -Apel \n
+        -Kelengkeng \n
+        -Pear \n
+        -Mangga \n
+        -Melon \n
+        -Selada(untuk netral mulut) \n \n \n
+        Saus toping: \n
+        -Mayo Keju (Manis Gurihnya Melted bangeett unch...)
+    </string>
+    <string name="mayomanis">
+        Salad Buah bukan kaleng-kaleng ala dapur mamsky. \n \n
+        -Salad ukuran 650ml(kotak) cuman 25rb \n
+        -Salad ukuran 300ml(bulet) cuman 15rb \n \n \n
+        daftar buah: \n
+        -Kiwi hijau	 \n
+        -Jeruk medan \n
+        -Buah Naga \n
+        -Anggur merah \n
+        -Strawberry \n
+        -Anggur hijau \n
+        -Apel \n
+        -Kelengkeng \n
+        -Pear \n
+        -Mangga \n
+        -Melon \n
+        -Selada(untuk netral mulut) \n \n \n
+        Saus toping: \n
+        -Mayo Manis (Manis Segarnya Legiiittt gan)
+    </string>
+    <string name="Identitas">
+        Nama \t : Erik \n \n
+        Kelas \t : Malam \n \n
+        Nim \t : 160101026 \n \n
+        Hobby \t : \n -Bernafas \n \n -main Skateboard \n \n
+                    -Gitar \n \n -Baca Buku \n \n
+                    -Ngoding Android(baru ini) \n \n
+        Skill \t : apaan aja diusahain \n \n
+        Pekerjaan \t : System Engineer \n \n
+        Perusahaan \t : PT.CITRA PRIMA KHARISMA \n \n
+        Cita-cita \t : jadi orang bener \n \n
+        Idola : Kurt Cobain dan Mike Ness \n \n
+        Pandangan Politik : Egoism \n \n \n \n
+
+        Catatan \t : \n
+        Aplikasi ini dibuat sederhana karena waktu dan ilmu saya belum seberapa ,
+        jadi mohon dimaklumkan , namun aplikasi ini kedepannya akan terus saya kembangkan untuk membantu saya dalam mencatat
+        Pesanan orang-orang yang membeli barang dagangan saya yaitu salad buah seperti yang tampil pada Credit. Terimakasih
+    </string>
+</resources>
