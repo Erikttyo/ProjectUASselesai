@@ -2,11 +2,11 @@ package com.prasettyo.ujungtombak;
 
 public class konfigurasi {
 
-    public static final String URL_ADD="http://192.168.43.21/Salad/pesananSalad/tambahPgw.php";
-    public static final String URL_GET_ALL = "http://192.168.43.21/Salad/pesananSalad/tampilSemuaPgw.php";
-    public static final String URL_GET_EMP = "http://192.168.43.21/Salad/pesananSalad/tampilPgw.php?id=";
-    public static final String URL_UPDATE_EMP = "http://192.168.43.21/Salad/pesananSalad/updatePgw.php";
-    public static final String URL_DELETE_EMP = "http://192.168.43.21/Salad/pesananSalad/hapusPgw.php?id=";
+    public static final String URL_ADD="http://192.168.43.21/Salad/pesananSalad/tambahPesanan.php";
+    public static final String URL_GET_ALL = "http://192.168.43.21/Salad/pesananSalad/tampilSemuaPesanan.php";
+    public static final String URL_GET_EMP = "http://192.168.43.21/Salad/pesananSalad/tampilPesanan.php?id=";
+    public static final String URL_UPDATE_EMP = "http://192.168.43.21/Salad/pesananSalad/updatePesanan.php";
+    public static final String URL_DELETE_EMP = "http://192.168.43.21/Salad/pesananSalad/hapusPesanan.php?id=";
 
     public static final String KEY_EMP_ID = "id";
     public static final String KEY_EMP_NAMA = "nama";
